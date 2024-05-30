@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"]
+ACCOUNTS=["GBKAOR5BVSQRXP2RM2G3QKXKHRF46KTVN3KSTINP2EKAEHVNW7FIKIWI"]
 
 [DOCUMENTATION]
-ORG_NAME="WallStreetBets"
-ORG_URL="https://www.wsb-stellar.com/"
-ORG_DESCRIPTION="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-ORG_LOGO="https://www.wsb-stellar.com/wsb.png"
+ORG_NAME="KiwiRail"
+ORG_URL="https://www.kiwi-stellar.org/"
+ORG_DESCRIPTION="KiwiRail Holdings Limited is a New Zealand state-owned enterprise responsible for rail operations in New Zealand and operates inter-island ferries."
+ORG_LOGO="https://www.kiwi-stellar.org/kiwi.png"
 
 
 [[CURRENCIES]]
-code="WSB"
+code="KIWI"
 status="live"
-display_decimals=2
-issuer="GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"
+display_decimals=4
+issuer="GBKAOR5BVSQRXP2RM2G3QKXKHRF46KTVN3KSTINP2EKAEHVNW7FIKIWI"
 anchor_asset_type="crypto"
-name="WallStreetBets"
-desc="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-image="https://www.wsb-stellar.com/wsb.png"
+name="KiwiRail"
+desc="KiwiRail Holdings Limited is a New Zealand state-owned enterprise responsible for rail operations in New Zealand and operates inter-island ferries."
+image="https://www.kiwi-stellar.org/kiwi.png"
